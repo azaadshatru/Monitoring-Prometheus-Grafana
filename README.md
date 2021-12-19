@@ -104,6 +104,6 @@ prometheus-service   10.244.73.86:9090                                        10
 
 ```
 #### Some Screenshots
-![Grafana](./Grafana1.png)
+![Grafana](./Grafana1.jpg)
 
-![Grafana](./Grafana2.png)
+![Grafana](./Grafana2.jpg)
